@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "450418217109",
+    "project_id": "my-life-e9d13",
+    "storage_bucket": "my-life-e9d13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450418217109:android:e22056b39d7bb40efbcb9c",
+        "android_client_info": {
+          "package_name": "My.life"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450418217109-mk22rlf3fbr8qpu6gpg0iocunj05m2q9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnatHnCpnAZ2HBTsGAqiz4pVmw6nkpbbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450418217109-mk22rlf3fbr8qpu6gpg0iocunj05m2q9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
